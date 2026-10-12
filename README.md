@@ -1,8 +1,8 @@
-## Project: AWS Resume Website
+# AWS Resume Website
 **Tools:** Amazon S3, CloudFront, Route 53, AWS Certificate Manager
 ## Project Overview
 Independently built and deployed a serverless static resume website using AWS services.
-"AWS Services Used"
+## AWS Services Used
 - **Amazon S3:** Hosted the static website files.
 - **Amazon CloudFront:** Provided content delivery, caching, and HTTPS security.
 - **Amazon Route 53:** Configured the custom domain and DNS routing.
